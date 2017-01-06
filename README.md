@@ -16,8 +16,8 @@ This is to grasp rapidly the language and its concepts.
 #### Topics
 ```
 R Tutorial
-[~] Basic Concepts
-[ ] Conditional and Loops
+[x] Basic Concepts
+[x] Conditional and Loops
 [ ] Methods
 [ ] Classes & Objects
 [ ] Arrays & Strings
@@ -27,4 +27,3 @@ R Tutorial
 [ ] Generics
 [ ] Certificate
 ```
-
