@@ -18,7 +18,7 @@ This is to grasp rapidly the language and its concepts.
 R Tutorial
 [x] Basic Concepts
 [x] Conditional and Loops
-[ ] Methods
+[~] Methods
 [ ] Classes & Objects
 [ ] Arrays & Strings
 [ ] More on Classses
